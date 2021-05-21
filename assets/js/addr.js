@@ -1,0 +1,1 @@
+const bnbAddress = '0x70c8aB3C81590F707cC4847677B6E1cDA6595e9b';
