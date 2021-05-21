@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1561.61">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
+    span.Apple-tab-span {white-space:pre}
+  </style>
+</head>
+<body>
+<p class="p1">form {</p>
+<p class="p1"><span class="Apple-tab-span">	</span>padding: 30px;</p>
+<p class="p1"><span class="Apple-tab-span">	</span>max-width: 400px;</p>
+<p class="p1"><span class="Apple-tab-span">	</span>margin: 0 auto;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">a {</p>
+<p class="p1"><span class="Apple-tab-span">	</span>padding: 10px;</p>
+<p class="p1"><span class="Apple-tab-span">	</span>color: white;</p>
+<p class="p1"><span class="Apple-tab-span">	</span>background-color: #c4302b;</p>
+<p class="p1"><span class="Apple-tab-span">	</span>text-decoration: none;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">form&gt;h1, form&gt;p, .youtube-note {</p>
+<p class="p1"><span class="Apple-tab-span">	</span>text-align: center;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">.input-holder {</p>
+<p class="p1"><span class="Apple-tab-span">	</span>margin: 30px auto;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">.btn-holder {</p>
+<p class="p1"><span class="Apple-tab-span">	</span>margin: 12px auto;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">input[type=text],input[type=number] {</p>
+<p class="p1"><span class="Apple-tab-span">	</span>width: 100%;</p>
+<p class="p1"><span class="Apple-tab-span">	</span>box-sizing: border-box;</p>
+<p class="p1"><span class="Apple-tab-span">	</span>margin-top: 10px;</p>
+<p class="p1"><span class="Apple-tab-span">	</span>padding: 10px 6px;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">button {</p>
+<p class="p1"><span class="Apple-tab-span">	</span>width: 100%;</p>
+<p class="p1"><span class="Apple-tab-span">	</span>padding: 10px 6px;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">.info {</p>
+<p class="p1"><span class="Apple-tab-span">	</span>padding: 20px;</p>
+<p class="p1"><span class="Apple-tab-span">	</span>background-color: yellow;</p>
+<p class="p1"><span class="Apple-tab-span">	</span>line-height: 30px;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">.kv {</p>
+<p class="p1"><span class="Apple-tab-span">	</span>overflow: hidden;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">.kv&gt;div:first-child {</p>
+<p class="p1"><span class="Apple-tab-span">	</span>float: left;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">.kv&gt;div:nth-child(2) {</p>
+<p class="p1"><span class="Apple-tab-span">	</span>float: right;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">.gain {</p>
+<p class="p1"><span class="Apple-tab-span">	</span>color: rgb(32, 16, 255);</p>
+<p class="p1"><span class="Apple-tab-span">	</span>font-weight: bold;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">.spend {</p>
+<p class="p1"><span class="Apple-tab-span">	</span>color: rgb(255, 0, 0);</p>
+<p class="p1"><span class="Apple-tab-span">	</span>font-weight: bold;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p2"><br></p>
+<p class="p2"><br></p>
+<p class="p1">.highlight {</p>
+<p class="p1"><span class="Apple-tab-span">	</span>text-align: center;</p>
+<p class="p1"><span class="Apple-tab-span">	</span>background-color: black;</p>
+<p class="p1"><span class="Apple-tab-span">	</span>color: #f3ba2f;</p>
+<p class="p1"><span class="Apple-tab-span">	</span>padding: 10px;</p>
+<p class="p1"><span class="Apple-tab-span">	</span>line-height: 25px;</p>
+<p class="p1"><span class="Apple-tab-span">	</span>letter-spacing: 1.75px;</p>
+<p class="p1">}</p>
+</body>
+</html>
